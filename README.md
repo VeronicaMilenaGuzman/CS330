@@ -11,6 +11,7 @@ I followed an iterative design process: I started by implementing a basic scene 
 The design tactics I practiced—breaking down functionality, planning user interaction, and using feedback loops—can be applied in future work. Whether it’s in game development, UI/UX design, or software architecture, these skills help create systems that are both functional and user-friendly.
 
 **Program Development and Iteration**
+
 My approach to developing programs involves building incrementally and testing frequently. I prioritize writing clean, modular code and documenting my process along the way. In this project, I experimented with new development strategies like using transformation matrices, managing the graphics pipeline more directly, and debugging shader-related issues.
 
 Iteration played a crucial role in development. I didn’t wait until the end to test features; instead, I built one piece at a time and tested each component (like orbiting or zooming the camera) before integrating it. This prevented issues from piling up and made it easier to troubleshoot bugs as they arose.
@@ -18,6 +19,7 @@ Iteration played a crucial role in development. I didn’t wait until the end to
 Throughout the milestones, my approach to development matured. I started off writing code that was functional but less flexible. As I progressed, I began refactoring earlier code to make it more reusable and maintainable, especially in the SceneManager class. By the end, I had a much deeper understanding of OpenGL’s rendering pipeline and the importance of structure in managing complex scenes.
 
 **Broader Impact and Application**
+
 Computer science plays a major role in reaching my career goals. It gives me the tools to create interactive systems, solve real-world problems, and think critically about technology's role in our world. This project especially showed me the power of computational graphics and how they can be used to create immersive, informative, or even entertaining experiences.
 
 Learning computational graphics has equipped me with valuable skills for both my educational and professional paths. Academically, I feel more confident tackling projects that require visual output or simulations. Professionally, skills in OpenGL, scene rendering, and real-time interaction are highly relevant to fields like game development, VR/AR design, and even scientific visualization.
