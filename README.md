@@ -1,6 +1,6 @@
 # CS330
 
-**Designing and Developing Software
+** Designing and Developing Software
 When I approach designing software, I begin by understanding the problem I’m trying to solve and identifying the requirements of the system. I usually break the problem down into manageable components and map out how those components will interact with each other. For this project, working with a 3D scene reinforced the importance of a modular and organized structure. Planning out how objects, textures, and camera interactions would be managed helped guide my implementation.
 
 This project helped me develop new design skills, especially in 3D space management and camera control. I learned how to think spatially and account for user experience when interacting with a 3D environment. Designing an intuitive camera system using keyboard and mouse inputs sharpened my skills in user-centered design.
